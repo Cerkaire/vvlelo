@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/vvlelo/static/js/main.51d61a1d.js",
+    "main.js": "/vvlelo/static/js/main.43af563d.js",
     "index.html": "/vvlelo/index.html",
-    "main.51d61a1d.js.map": "/vvlelo/static/js/main.51d61a1d.js.map"
+    "main.43af563d.js.map": "/vvlelo/static/js/main.43af563d.js.map"
   },
   "entrypoints": [
-    "static/js/main.51d61a1d.js"
+    "static/js/main.43af563d.js"
   ]
 }
